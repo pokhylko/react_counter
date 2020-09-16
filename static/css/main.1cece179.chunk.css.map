@@ -1,0 +1,1 @@
+{"version":3,"sources":["Counter.scss"],"names":[],"mappings":"AAAA,WACE,eAAgB,CAChB,aAAc,CACd,iBAAkB,CAHpB,kBAMI,aAAc,CACd,gBAAiB","file":"main.1cece179.chunk.css","sourcesContent":[".container {\n  max-width: 991px;\n  margin: 0 auto;\n  text-align: center;\n\n  button {\n    margin: 0 10px;\n    padding: 5px 15px;\n  }\n}"]}
